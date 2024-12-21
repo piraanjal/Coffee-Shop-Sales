@@ -2,7 +2,7 @@
 
 ---
 
-## **Project Overview**
+# **Project Overview**
 The goal of this project is to analyze retail sales data for a coffee shop to uncover actionable insights that will enhance business performance. By leveraging Excel’s advanced functionalities, including charts and dynamic dashboards, we aim to answer key business questions and present insights in an intuitive and visually engaging manner.
 
 ---
