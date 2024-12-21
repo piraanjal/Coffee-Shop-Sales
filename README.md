@@ -101,5 +101,12 @@ The main objective of this project is to analyze retail sales data to gain actio
 - Use Power BI for more advanced visualizations and deeper insights.
 - Implement forecasting models to predict future sales trends.
 
+  ## **Screenshots**
+  ### Coffee Shop Sales Dashboard 
+![Coffee Shop Sales](Screenshot2024-12-21150616.png)
+
+
+
+
 
 
