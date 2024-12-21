@@ -103,7 +103,7 @@ The main objective of this project is to analyze retail sales data to gain actio
 
   ## **Screenshots**
   ### Coffee Shop Sales Dashboard 
-![Coffee Shop Sales](Screenshot2024-12-21150616.png)
+![Coffee Shop Sales](CoffeeSales.png)
 
 
 
