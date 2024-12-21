@@ -1,11 +1,11 @@
-# Coffee Shop Retail Sales Analysis Project
+# Coffee Shop Retail Sales Analysis Project ☕
 
-# **Project Overview**
+# **Project Overview** 🔍
 The goal of this project is to analyze retail sales data for a coffee shop to uncover actionable insights that will enhance business performance. By leveraging Excel’s advanced functionalities, including charts and dynamic dashboards, we aim to answer key business questions and present insights in an intuitive and visually engaging manner.
 
 ---
 
-## **Problem Statement**
+## **Problem Statement** 📊
 The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the coffee shop. The project specifically addresses the following questions:
 
 1. **How do sales vary by day of the week and hour of the day?**
@@ -65,20 +65,6 @@ The main objective of this project is to analyze retail sales data to gain actio
 
 ---
 
-## **How to Use**
-
-1. **Data Input:**
-   - Manually prepare and input the sales data into the "Processed Data" sheet.
-
-2. **Interacting with the Dashboard:**
-   - Use slicers to filter data by month or location.
-   - Hover over charts for detailed insights.
-
-3. **Customization:**
-   - Modify chart types or data filters as needed to focus on specific aspects of the analysis.
-
----
-
 ## **Expected Insights**
 - Identification of peak sales hours and days for optimal staffing and promotions.
 - Monthly revenue trends to track performance and seasonality.
@@ -101,8 +87,8 @@ The main objective of this project is to analyze retail sales data to gain actio
 - Use Power BI for more advanced visualizations and deeper insights.
 - Implement forecasting models to predict future sales trends.
 
-  ## **Screenshots**
-  ### Coffee Shop Sales Dashboard 
+## **Screenshots**
+### Coffee Shop Sales Dashboard 
 ![Coffee Shop Sales](CoffeeSales.png)
 
 
